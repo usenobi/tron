@@ -1,14 +1,1 @@
-## Founder
-
-Name: [name]
-Role: [role]
-
-## Team Member 1
-
-Name: [name]
-Role: [role]
-
-## Team Member 2
-
-Name: [name]
-Role: [role]
+IF YOU'RE INTERESTED IN JOINING OUR TEAM, send an email to **jobs@usenobi.com** and tell us why YOU are the PERFECT FIT!
